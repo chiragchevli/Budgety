@@ -32,8 +32,7 @@ body {
 **********************************************/
 
 .top {
-    height: 40vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(back.png);
+    height: 40vh;   
     background-size: cover;
     background-position: center;
     position: relative;
@@ -49,6 +48,7 @@ body {
 }
 
 .budget__title {
+    color: darkcyan;
     font-size: 18px;
     text-align: center;
     margin-bottom: 10px;
@@ -56,6 +56,7 @@ body {
 }
 
 .budget__value {
+    color : darkcyan;
     font-weight: 300;
     font-size: 46px;
     text-align: center;
@@ -82,7 +83,7 @@ body {
 .budget__expenses--text {
     float: left;
     font-size: 13px;
-    color: #444;
+    color: white;
     margin-top: 2px;
 }
 
@@ -116,7 +117,7 @@ body {
 .add {
     padding: 14px;
     border-bottom: 1px solid #e7e7e7;
-    background-color: #f7f7f7;
+    background-color: slategray;
 }
 
 .add__container {
