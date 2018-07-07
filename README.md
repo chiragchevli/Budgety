@@ -1,8 +1,10 @@
 # Budgety
 
-> Simple monthly budget app which help to track income and expence and help you to take efficient financial decision.
+> Simple monthly budget app which help to track income and expense and help you to take efficient financial decision.
 
 > I made this project as part of my Javascript course on Udemy :- [The Complete JavaScript Course 2018: Build Real Projects!](https://www.udemy.com/the-complete-javascript-course/)
+
+> I learned many new concepts of java like Modular pattern Developement, event bubling, event delegation, prototype chain,data privacy, DOM manipulation, DOM traversal, how to use IIFE, how to make API like modules using IIFE, etc..
 
 > :wink: **Happy Budgetting!** :wink:
 
